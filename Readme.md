@@ -1,0 +1,1 @@
+Olá, esse projeto inclui exercícios em C que fiz durante a matéria Programação Estruturada na faculdade.
